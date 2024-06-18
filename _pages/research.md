@@ -13,6 +13,7 @@ with Jasmine Yang and Andrey Simonov
 
 ### [Collaboration Among Content Creators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856)
   with Jasmine Yang and Jerath Kinshuk
+
 *Abstract:* We study content collaboration in the creator economy, in which competing creators
 mutually agree to collaborate on joint content and negotiate on content production and revenue
 sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we
