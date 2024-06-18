@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
   body {
-    line-height: 1; /* Adjust this value to control line spacing */
+    line-height: 1.2; /* Adjust this value to control line spacing */
   }
 
   p, li {
@@ -15,7 +15,7 @@ author_profile: true
   }
 
   .coauthors, .abstract, .other-text {
-    font-size: 0.75em; /* Further customize specific classes if needed */
+    font-size: 0.9em; /* Further customize specific classes if needed */
   }
 </style>
 
