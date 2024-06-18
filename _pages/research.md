@@ -7,15 +7,15 @@ author_profile: true
 
 <style>
   body {
-    line-height: 1.4; /* Adjust this value to control line spacing */
+    line-height: 1; /* Adjust this value to control line spacing */
   }
 
   p, li {
-    font-size: 0.9em; /* Adjust this value to make the font size smaller */
+    font-size: 1em; /* Adjust this value to make the font size smaller */
   }
 
   .coauthors, .abstract, .other-text {
-    font-size: 0.9em; /* Further customize specific classes if needed */
+    font-size: 0.75em; /* Further customize specific classes if needed */
   }
 </style>
 
@@ -29,7 +29,7 @@ author_profile: true
 <div class="coauthors">with Jasmine Yang and Jerath Kinshuk</div>
 
 <div class="abstract">
-*Abstract:* We study content collaboration in the creator economy, in which competing creators
+Abstract: We study content collaboration in the creator economy, in which competing creators
 mutually agree to collaborate on joint content and negotiate on content production and revenue
 sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we
 show that collaboration allows creators to use the jointly-produced content to moderate competition,
