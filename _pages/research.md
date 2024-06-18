@@ -5,15 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+  body {
+    line-height: 1.4; /* Adjust this value to control line spacing */
+  }
+
+  p, li {
+    font-size: 0.9em; /* Adjust this value to make the font size smaller */
+  }
+
+  .coauthors, .abstract, .other-text {
+    font-size: 0.9em; /* Further customize specific classes if needed */
+  }
+</style>
+
 ## Working Papers
 
 ### The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv
-with Jasmine Yang and Andrey Simonov
+<div class="coauthors">with Jasmine Yang and Andrey Simonov</div>
 
 
 ### [Collaboration Among Content Creators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856)
-  with Jasmine Yang and Jerath Kinshuk
+<div class="coauthors">with Jasmine Yang and Jerath Kinshuk</div>
 
+<div class="abstract">
 *Abstract:* We study content collaboration in the creator economy, in which competing creators
 mutually agree to collaborate on joint content and negotiate on content production and revenue
 sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we
@@ -26,5 +41,5 @@ entertainment value has an incentive to free ride on the collaborative content. 
 increase surplus for consumers (who without collaboration would watch content of low entertainment
 value), thereby improving creators’ profits as well as consumer surplus. Our results provide guidance
 to content creators, to platforms designing tools to facilitate collaborations, and to policy makers.
-
+</div>
 
