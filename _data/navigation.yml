@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: qifan-han.github.io/files/CV-qifan.pdf
+    url: /files/CV-qifan.pdf
 
   - title: "Working Papers"
     url: /talks/    
