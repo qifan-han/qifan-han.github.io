@@ -14,7 +14,7 @@ author_profile: true
     font-size: 1em; /* Font size for regular text */
   }
 
-  .coauthors, .subcontent {
+  .coauthors, .other-text {
     font-size: 0.9em; /* Customize specific classes if needed */
   }
 
