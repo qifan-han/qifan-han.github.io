@@ -30,7 +30,7 @@ author_profile: true
 ## Working Papers
 
 
-### The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv (*Job Market Paper*)
+### [The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv](https://qifan-han.github.io/files/JMP.pdf) (*Job Market Paper*)
 <div class="coauthors">with Jasmine Yang and Andrey Simonov</div>
 
 <div class="abstract">
@@ -57,7 +57,7 @@ to content creators, to platforms designing tools to facilitate collaborations, 
 </div>
 
 
-### Impulse Response Inferences With Existence of Repeated Roots (*draft avaiable upon request*)
+### [Impulse Response Inferences With Existence of Repeated Roots](https://qifan-han.github.io/files/IRF_paper.pdf)
 
 <div class="abstract">
 Abstract: Vector Autoregression (VAR) and Local Projection (LP) are two popular methods of estimating the impulse response functions (IRFs) and conducting inferences in macroeconomic studies. However, it remains unclear which one should be a better choice in empirical practices. This paper extends existing works on the comparison between Vector Autoregression and Local Projection methods, by considering inferences when the data generating processes involve repeated roots. I show that the autoregressive estimation of impulse response functions will converge to a special type of real-valued random variable, resulting in conservativeness of the widely-used bootstrap Efron confidence interval, even when the roots are away from the unit circle. This property of conservativeness becomes even more severe in the following cases: 1) when the time series is highly persistent; and 2) when the researcher is interested in impulse response functions at intermediate or long horizons. The theoretical results are supported by Monte Carlo simulations with different values of roots in a variety of model specifications, including AR(2), AR(3) and VAR(1).
