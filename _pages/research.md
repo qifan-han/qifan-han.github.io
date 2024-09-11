@@ -28,11 +28,10 @@ author_profile: true
     margin-top: 1.5em; /* Increase space above headings */
   }
 
-  /* Styling for the bullet points (using default circles) */
-  .paper-title {
-    list-style-type: disc; /* Default bullet style (circle) */
-    font-weight: bold;
-    margin-bottom: 5px;
+  /* Indent subcontents and add bullet points for them */
+  ul.subcontent {
+    list-style-type: circle; /* Set bullet points to circles for subcontent */
+    margin-left: 20px; /* Indent subcontents */
   }
 
   .toggle-link {
@@ -40,13 +39,6 @@ author_profile: true
     text-decoration: underline;
     cursor: pointer;
     font-size: 0.9em;
-  }
-
-  /* Coauthor and abstract block styling */
-  .coauthors, .abstract-row {
-    margin-left: 20px; /* Indent for better formatting */
-    font-style: italic;
-    list-style-type: none; /* Remove bullet points for subcontent */
   }
 
   /* Divider between each paper */
@@ -90,6 +82,51 @@ author_profile: true
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a>
   </li>
   <div class="coauthors"> with Jasmine Yang and Jerath Kinshuk</div>
+  <div class="abstract-row">
+    <span class="toggle-link" onclick="toggleAbstract('abstract2')">Abstract</span>
+  </div>
+  <div id="abstract2" class="abstract">
+    Abstract: We study content collaboration in the creator economy, in which competing creators mutually agree to collaborate on joint content and negotiate on content production and revenue sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we show that collaboration allows creators to use the jointly-produced content to moderate competition, while using their individual content to expand into new audiences. This increases content diversity but also leads to increased monetizability of content. In general, collaboration among creators has an effect of increasing the profits of creators while reducing consumer surplus. When creators create content with heterogeneous entertainment values, the creator producing content of lower entertainment value has an incentive to free ride on the collaborative content. This free riding may increase surplus for consumers (who without collaboration would watch content of low entertainment value), thereby improving creators’ profits as well as consumer surplus. Our results provide guidance to content creators, to platforms designing tools to facilitate collaborations, and to policymakers.
+  </div>
+
+  <div class="underline"></div>
+
+  <!-- Paper 3 -->
+  <li class="paper-title">
+    <a href="https://qifan-han.github.io/files/IRF_paper.pdf">Impulse Response Inferences With Existence of Repeated Roots</a>
+  </li>
+<!--  <div class="coauthors">Co-authors: Not applicable</div>-->
+  <div class="abstract-row">
+    <span class="toggle-link" onclick="toggleAbstract('abstract3')">Abstract</span>
+  </div>
+  <div id="abstract3" class="abstract">
+    Abstract: Vector Autoregression (VAR) and Local Projection (LP) are two popular methods of estimating the impulse response functions (IRFs) and conducting inferences in macroeconomic studies. However, it remains unclear which one should be a better choice in empirical practices. This paper extends existing works on the comparison between Vector Autoregression and Local Projection methods, by considering inferences when the data generating processes involve repeated roots. I show that the autoregressive estimation of impulse response functions will converge to a special type of real-valued random variable, resulting in conservativeness of the widely-used bootstrap Efron confidence interval, even when the roots are away from the unit circle. This property of conservativeness becomes even more severe in the following cases: 1) when the time series is highly persistent; and 2) when the researcher is interested in impulse response functions at intermediate or long horizons. The theoretical results are supported by Monte Carlo simulations with different values of roots in a variety of model specifications, including AR(2), AR(3) and VAR(1).
+  </div>
+
+</ul>
+
+## Working in Progress
+
+<ul>
+  <!-- WIP 1 -->
+  <li class="paper-title">
+    Partial Identification Under Multiple Nest Structures
+  </li>
+<!--  <div class="coauthors"> with Jasmine Yang and Andrey Simonov</div>-->
+  <div class="abstract-row">
+    <span class="toggle-link" onclick="toggleAbstract('abstract1')">Abstract</span>
+  </div>
+  <div id="abstract_wip1" class="abstract">
+    Abstract: Nested logit model is one of the most widely applied tools in discrete choice analysis, due to its ability to capture rich substitution patterns in market data. However, the researcher needs to define a nest structure ex ante, as the chosen nest is usually based on prior knowledge of the market and will be applied to all individuals. This paper discusses the identification of individual preferences, while relaxing this unique nest structure assumption and allowing for heterogeneity in individuals' recognition of the nest structures in the same market. I characterize the sharp identification region of parameters in the nested logit model, based on the coexistence of a given set of nest structures. I show in a series of Monte Carlo simulations that misspecification of the nest structure may result in the identification region not covering the true parameter, whereas the identification region solves the misspecification problem and partially identifies the parameters by allowing for multiple nest structures.
+  </div>
+
+  <div class="underline"></div>
+
+  <!-- WIP 2 -->
+  <li class="paper-title">
+    Optimal Achievement System Design on Video Game Platforms
+  </li>
+<!--  <div class="coauthors"> with Jasmine Yang and Jerath Kinshuk</div>-->
   <div class="abstract-row">
     <span class="toggle-link" onclick="toggleAbstract('abstract2')">Abstract</span>
   </div>
