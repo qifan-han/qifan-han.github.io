@@ -1,31 +1,21 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{% include base_path %}
+    <!-- Add the dynamic title and description -->
+    <title>{{ page.title | default: "Qifan Han | Data Scientist and Researcher" }}</title>
+    <meta name="description" content="{{ page.description | default: "Qifan Han, Ph.D. in Economics at Boston University" }}">
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+    <!-- Other metadata, CSS, and scripts -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
 
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
+<body>
+    <!-- Your site's content will go here -->
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+    <!-- Add footer or other layout content -->
+</body>
 </html>
