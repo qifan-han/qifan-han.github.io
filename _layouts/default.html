@@ -2,20 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Add the dynamic title and description -->
+    
+    <!-- SEO title -->
     <title>{{ page.title | default: "Qifan Han | Data Scientist and Researcher" }}</title>
-    <meta name="description" content="{{ page.description | default: "Qifan Han, Ph.D. in Economics at Boston University" }}">
 
-    <!-- Other metadata, CSS, and scripts -->
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <!-- SEO meta description -->
+    <meta name="description" content="{{ page.excerpt | default: "Qifan Han, Ph.D. in Economics at Boston University." }}">
+
+    <!-- Other SEO meta tags -->
+    <meta name="keywords" content="Qifan Han, Economics, Data Science, Machine Learning, PhD, Researcher, Boston University">
+    
+    <!-- Open Graph Meta Tags (for sharing on social media) -->
+    <meta property="og:title" content="Qifan Han | Data Scientist and Researcher">
+    <meta property="og:description" content="Qifan Han, Ph.D. in Economics at Boston University.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://qifan-han.github.io">
+    <meta property="og:image" content="path_to_image.jpg">
+
+    <!-- CSS files or other head content -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
-
 <body>
-    <!-- Your site's content will go here -->
+    <!-- Page Content -->
     {{ content }}
 
-    <!-- Add footer or other layout content -->
+    <!-- Footer and other scripts -->
 </body>
 </html>
