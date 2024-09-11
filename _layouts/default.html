@@ -12,21 +12,19 @@
     <meta name="description" content="{{ page.excerpt | default: "Qifan Han, Ph.D. in Economics at Boston University." }}">
 
     <!-- Other SEO meta tags -->
-    <meta name="keywords" content="Qifan Han, Economics, Marketing, Causal Inference, Econometrics, PhD, Boston University">
+    <meta name="keywords" content="Qifan Han, Economics, Marketing, Causal Inference, Applied Econometrics, PhD, Boston University">
     
-    <!-- CSS for old layout (make sure you have this linked properly) -->
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
-    <!-- Optional Open Graph Meta Tags (if you want social media shares) -->
-    <!-- These tags won’t affect the layout, they just help when sharing on social media -->
-    <meta property="og:title" content="Qifan Han | Ph.D. in Economics at Boston University">
-    <meta property="og:description" content="Qifan Han, Ph.D. in Economics at Boston University.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://qifan-han.github.io">
+    <!-- Other metadata, CSS, and scripts -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body>
-    <!-- Ensure the old layout HTML is intact -->
+    <!-- Ensure the old layout HTML is intact, image is removed -->
     <div class="container">
+        <div class="profile-picture">
+            <!-- Image removed, layout remains intact -->
+            <!-- <img src="path_to_your_picture.jpg" alt="Qifan Han" class="profile-pic"> -->
+        </div>
+
         <div class="content">
             <!-- Page Content -->
             {{ content }}
