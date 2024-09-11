@@ -14,19 +14,30 @@
     <!-- Other SEO meta tags -->
     <meta name="keywords" content="Qifan Han, Economics, Data Science, Machine Learning, PhD, Researcher, Boston University">
     
-    <!-- Open Graph Meta Tags (for sharing on social media) -->
+    <!-- CSS for old layout (make sure you have this linked properly) -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+    <!-- Optional Open Graph Meta Tags (if you want social media shares) -->
+    <!-- These tags won’t affect the layout, they just help when sharing on social media -->
     <meta property="og:title" content="Qifan Han | Data Scientist and Researcher">
     <meta property="og:description" content="Qifan Han, Ph.D. in Economics at Boston University.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://qifan-han.github.io">
-    <meta property="og:image" content="path_to_image.jpg">
-
-    <!-- CSS files or other head content -->
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <meta property="og:image" content="path_to_your_image.jpg">
 </head>
 <body>
-    <!-- Page Content -->
-    {{ content }}
+    <!-- Ensure the old layout HTML is intact -->
+    <div class="container">
+        <div class="profile-picture">
+            <!-- Your picture should remain in the old layout (on the left) -->
+            <img src="path_to_your_picture.jpg" alt="Qifan Han" class="profile-pic">
+        </div>
+
+        <div class="content">
+            <!-- Page Content -->
+            {{ content }}
+        </div>
+    </div>
 
     <!-- Footer and other scripts -->
 </body>
