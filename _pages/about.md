@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Qifan Han, Ph.D. candidate in Economics at Boston University.
+I am Qifan Han, a Ph.D. candidate in Economics at Boston University.
 
-My research applies causal inference, partial identification, structural modeling and analytical modeling to study the policy impact on digital platforms.
+My research focuses on digital marketing and applied econometrics. I explore content production and consumption on digital platforms using causal inference, partial identification, structural estimation and analytical modeling.
 
-I hold Master's degree in Econometrics and Mathematical Economics from LSE and Quantitative Methods in Social Sciences from Columbia University, and an undergraduate degree in International Politics from Fudan University.
+I hold a Master's degree in Econometrics and Mathematical Economics from the London School of Economics and another in Quantitative Methods in Social Sciences from Columbia University. I also earned my undergraduate degree in International Politics from Fudan University.
 
 I was born and raised in Nanjing, China.
 
