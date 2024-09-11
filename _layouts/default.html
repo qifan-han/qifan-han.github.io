@@ -1,31 +1,44 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO title -->
+    <title>{{ page.title | default: "Qifan Han | Data Scientist and Researcher" }}</title>
 
-{% include base_path %}
+    <!-- SEO meta description -->
+    <meta name="description" content="{{ page.excerpt | default: "Qifan Han, Ph.D. in Economics at Boston University." }}">
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+    <!-- Other SEO meta tags -->
+    <meta name="keywords" content="Qifan Han, Economics, Data Science, Machine Learning, PhD, Researcher, Boston University">
+    
+    <!-- CSS for old layout (make sure you have this linked properly) -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-  <body>
+    <!-- Optional Open Graph Meta Tags (if you want social media shares) -->
+    <!-- These tags won’t affect the layout, they just help when sharing on social media -->
+    <meta property="og:title" content="Qifan Han | Data Scientist and Researcher">
+    <meta property="og:description" content="Qifan Han, Ph.D. in Economics at Boston University.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://qifan-han.github.io">
+    <meta property="og:image" content="path_to_your_image.jpg">
+</head>
+<body>
+    <!-- Ensure the old layout HTML is intact -->
+    <div class="container">
+        <div class="profile-picture">
+            <!-- Your picture should remain in the old layout (on the left) -->
+            <img src="path_to_your_picture.jpg" alt="Qifan Han" class="profile-pic">
+        </div>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+        <div class="content">
+            <!-- Page Content -->
+            {{ content }}
+        </div>
     </div>
 
-    {% include scripts.html %}
-
-  </body>
+    <!-- Footer and other scripts -->
+</body>
 </html>
