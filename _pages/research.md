@@ -25,7 +25,33 @@ author_profile: true
   h2, h3 {
     margin-top: 1.5em; /* Increase space above headings */
   }
+  
+  .toggle-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    cursor: pointer;
+    margin-top: 5px;
+    border-radius: 3px;
+  }
+
+  .toggle-btn:hover {
+    background-color: #0056b3;
+  }
 </style>
+
+<script>
+  function toggleAbstract(id) {
+    var abstract = document.getElementById(id);
+    if (abstract.style.display === "none" || abstract.style.display === "") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+</script>
 
 ## Working Papers
 
@@ -33,9 +59,14 @@ author_profile: true
 ### [The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv](https://qifan-han.github.io/files/JMP.pdf) (*Job Market Paper*)
 <div class="coauthors">with Jasmine Yang and Andrey Simonov</div>
 
-<div class="abstract">
-Abstract: The necessity of content regulation on digital platforms, particularly concerning misinformation and harmful content, has sparked a growing debate. While many platforms have increasingly relied on self-regulation to address these issues, the effectiveness of such measures remains unclear, due to a potential misalignment between the incentives of the platforms and those of the regulators. We investigate the effectiveness and market consequences of self-regulation by studying Twitch's ban on online gambling livestreams in October 2022. We use a novel high-frequency panel dataset including top 6000 streamers to assess the policy impact, and leverage historical video clips, high-frequency stream titles and in-stream chats to detect banned content and streamers for identification. We find that the policy successfully decreased weekly gambling streams by 63.2% for streamers whose content were banned and a 12% among unbanned ones. However, it also resulted in a reduction of non-gambling content production, hurting content variety on the platform. Additionally, the policy had a larger impact on more popular streamers, driven by two underlying mechanisms: lower reliance on gambling content and concern for personal reputation. On the demand side, we find that the policy reduced total viewership and low-tier subscriptions among treated streamers but did not decrease revenue from their loyal viewers.
+<button class="toggle-btn" onclick="toggleAbstract('abstract1')">Abstract</button>
+<div id="abstract1" class="abstract">
+  Abstract: The necessity of content regulation on digital platforms, particularly concerning misinformation and harmful content, has sparked a growing debate. While many platforms have increasingly relied on self-regulation to address these issues, the effectiveness of such measures remains unclear, due to a potential misalignment between the incentives of the platforms and those of the regulators. We investigate the effectiveness and market consequences of self-regulation by studying Twitch's ban on online gambling livestreams in October 2022. We use a novel high-frequency panel dataset including top 6000 streamers to assess the policy impact, and leverage historical video clips, high-frequency stream titles and in-stream chats to detect banned content and streamers for identification. We find that the policy successfully decreased weekly gambling streams by 63.2% for streamers whose content were banned and a 12% among unbanned ones. However, it also resulted in a reduction of non-gambling content production, hurting content variety on the platform. Additionally, the policy had a larger impact on more popular streamers, driven by two underlying mechanisms: lower reliance on gambling content and concern for personal reputation. On the demand side, we find that the policy reduced total viewership and low-tier subscriptions among treated streamers but did not decrease revenue from their loyal viewers.
 </div>
+
+<!--<div class="abstract">-->
+<!--Abstract: The necessity of content regulation on digital platforms, particularly concerning misinformation and harmful content, has sparked a growing debate. While many platforms have increasingly relied on self-regulation to address these issues, the effectiveness of such measures remains unclear, due to a potential misalignment between the incentives of the platforms and those of the regulators. We investigate the effectiveness and market consequences of self-regulation by studying Twitch's ban on online gambling livestreams in October 2022. We use a novel high-frequency panel dataset including top 6000 streamers to assess the policy impact, and leverage historical video clips, high-frequency stream titles and in-stream chats to detect banned content and streamers for identification. We find that the policy successfully decreased weekly gambling streams by 63.2% for streamers whose content were banned and a 12% among unbanned ones. However, it also resulted in a reduction of non-gambling content production, hurting content variety on the platform. Additionally, the policy had a larger impact on more popular streamers, driven by two underlying mechanisms: lower reliance on gambling content and concern for personal reputation. On the demand side, we find that the policy reduced total viewership and low-tier subscriptions among treated streamers but did not decrease revenue from their loyal viewers.-->
+<!--</div>-->
 
 
 ### [Collaboration Among Content Creators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856)
