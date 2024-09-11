@@ -12,7 +12,7 @@ title                    : "QIFAN HAN"
 title_separator          : "-"
 name                     : &name "Qifan Han"
 description              : &description "personal description"
-url                      : https://qifan-han.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qifan-han.github.io # the base hostname & protocol for your site e.g. "https://qifan-han.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qifan-han/qifan-han.github.io"
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "qifan-han-590434a0"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
