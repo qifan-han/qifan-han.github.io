@@ -66,9 +66,9 @@ author_profile: true
 <ul>
   <!-- Paper 1 -->
   <li>
-    <a href="https://qifan-han.github.io/files/JMP.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> <em>(Job Market Paper)</em>
+    <a href="https://qifan-han.github.io/files/JMP.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> (<em>Job Market Paper</em>) (with Jasmine Yang and Andrey Simonov)
     <ul class="subcontent">
-      <li> <em>with Jasmine Yang and Andrey Simonov</em> </li>
+<!--      <li> <em>with Jasmine Yang and Andrey Simonov</em> </li>-->
       <li><span class="toggle-link" onclick="toggleAbstract('abstract1')">Abstract</span></li>
       <li id="abstract1" class="abstract">
         The necessity of content regulation on digital platforms, particularly concerning misinformation and harmful content, has sparked a growing debate. While many platforms have increasingly relied on self-regulation to address these issues, the effectiveness of such measures remains uncertain, as platforms may prioritize profits over consumer protection, potentially leading to misaligned incentives with regulators. We investigate the effectiveness and market outcomes of content self-regulation by studying Twitch’s ban on online gambling livestreams in October 2022, using a novel high-frequency panel dataset covering the top 6,000 Twitch streamers. To identify banned content and streamers affected by the policy, we leverage video analysis on historical video clips, high-frequency stream titles, and in-stream chat analysis. To tackle key identification challenges, we use three causal estimators: two-way fixed effects DiD, Synthetic DiD, and the doubly-robust estimator of group-time average treatment effects, and propose a network analysis to construct valid treated and control groups. On the supply side, we find that the policy caused a reduction in weekly gambling streams by 63.2% for streamers whose content was banned and 12.2% for streamers whose content was not banned. However, the policy also decreased non-gambling streams as an unintended cost for the platform, resulting in an overall reduction in content production and diversity. Additionally, the more popular streamers experienced a higher content reduction, driven by two underlying mechanisms: lower reliance on gambling content and concerns for reputation. On the demand side, we find that the policy only reduced total viewership and low-tier subscriptions, with revenue from loyal viewers unaffected. We discuss the implications of Twitch’s policy ban and the broader practices of content self-regulation on platforms in general.
@@ -80,9 +80,9 @@ author_profile: true
 
   <!-- Paper 2 -->
   <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a> (with Jasmine Yang and Jerath Kinshuk)
     <ul class="subcontent">
-      <li> <em>with Jasmine Yang and Jerath Kinshuk</em> </li>
+<!--      <li> <em>with Jasmine Yang and Jerath Kinshuk</em> </li>-->
       <li><span class="toggle-link" onclick="toggleAbstract('abstract2')">Abstract</span></li>
       <li id="abstract2" class="abstract">
         We study content collaboration in the creator economy, in which competing creators mutually agree to collaborate on joint content and negotiate on content production and revenue sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we show that collaboration allows creators to use the jointly-produced content to moderate competition, while using their individual content to expand into new audiences. This increases content diversity but also leads to increased monetizability of content. In general, collaboration among creators has an effect of increasing the profits of creators while reducing consumer surplus. When creators create content with heterogeneous entertainment values, the creator producing content of lower entertainment value has an incentive to free ride on the collaborative content. This free riding may increase surplus for consumers (who without collaboration would watch content of low entertainment value), thereby improving creators’ profits as well as consumer surplus. Our results provide guidance to content creators, to platforms designing tools to facilitate collaborations, and to policymakers.
