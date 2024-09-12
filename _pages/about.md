@@ -11,7 +11,7 @@ I am Qifan Han, a Ph.D. candidate in Economics at Boston University. I am on the
 
 My research work is in the areas of quantitative marketing, applied econometrics and applied microeconomics, with a focus on digital markets, such as video games and livestreams. I explore the effectiveness and consequences of platform self-regulatory policies, focusing on the trade-offs between balancing platform’s economic interests, content production and consumer protection. I also develop econometric tools to address identification and estimation challenges, including innovative sensitivity analysis to address potential misclassified treatment assignments in causal inference, and partial identification methods to relax homogeneity assumptions in structural models. This stream of work helps enhance the robustness of empirical findings in both marketing and economics research and reduce false implications due to misidentification or unrealistic assumptions.
 
-I hold a Master's degree in Econometrics and Mathematical Economics from the London School of Economics (LSE) and another in Quantitative Methods in Social Sciences from Columbia University. I also earned my undergraduate degree in International Politics from Fudan University.
+I hold an M.Sc. in Econometrics and Mathematical Economics from the London School of Economics (LSE), an M.A. in Quantitative Methods in Social Sciences from Columbia University, and an LLB in International Politics from Fudan University.
 
 I was born and raised in Nanjing, China.
 
