@@ -80,9 +80,9 @@ author_profile: true
 
   <!-- Paper 2 -->
   <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a> (with Jasmine Yang and Jerath Kinshuk)
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a> (with Jasmine Yang and Kinshuk Jerath)
     <ul class="subcontent">
-<!--      <li> <em>with Jasmine Yang and Jerath Kinshuk</em> </li>-->
+<!--      <li> <em>with Jasmine Yang and Kinshuk Jerath</em> </li>-->
       <li><span class="toggle-link" onclick="toggleAbstract('abstract2')">Abstract</span></li>
       <li id="abstract2" class="abstract">
         We study content collaboration in the creator economy, in which competing creators mutually agree to collaborate on joint content and negotiate on content production and revenue sharing. Using a game theory model with creators competing for consumers on a Hotelling line, we show that collaboration allows creators to use the jointly-produced content to moderate competition, while using their individual content to expand into new audiences. This increases content diversity but also leads to increased monetizability of content. In general, collaboration among creators has an effect of increasing the profits of creators while reducing consumer surplus. When creators create content with heterogeneous entertainment values, the creator producing content of lower entertainment value has an incentive to free ride on the collaborative content. This free riding may increase surplus for consumers (who without collaboration would watch content of low entertainment value), thereby improving creators’ profits as well as consumer surplus. Our results provide guidance to content creators, to platforms designing tools to facilitate collaborations, and to policymakers.
