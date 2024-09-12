@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "QIFAN HAN | Ph.D. in Economics"
+title                    : "QIFAN HAN"
 title_separator          : "-"
 name                     : &name "Qifan Han"
 description              : &description "Qifan Han | Ph.D. in Economics at Boston University"
