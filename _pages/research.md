@@ -66,7 +66,7 @@ author_profile: true
 <ul>
   <!-- Paper 1 -->
   <li>
-    <a href="https://qifan-han.github.io/files/JMP.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> (with Jasmine Yang and Andrey Simonov)
+    <a href="https://qifan-han.github.io/files/JMP_QifanHan.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> (with Jasmine Yang and Andrey Simonov)
     <ul class="subcontent">
       <li> <em>Job Market Paper</em> </li>
       <li><span class="toggle-link" onclick="toggleAbstract('abstract-1')">Abstract</span></li>
