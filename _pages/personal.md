@@ -63,9 +63,13 @@ author_profile: true
 
 In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://en.wikipedia.org/wiki/Liverpool_F.C.) since my childhood. During my studies at the London School of Economics in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
 
-<img src="/images/personal_photo.JPG" 
-     alt="Liverpool Live" 
-     title="My experience at Anfield" 
-     width="150" />
+<p align="center">
+  <img 
+    src="/images/personal_photo.JPG" 
+    alt="Liverpool Live" 
+    title="My experience at Anfield" 
+    width="400"
+/>
+</p>
 
 I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the [Pokémon](https://en.wikipedia.org/wiki/Pokémon) series since 2005. My Game of the Year for 2024 is shared by [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) and [Shin Megami Tensei V: Vengeance](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V).
