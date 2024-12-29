@@ -18,6 +18,19 @@ author_profile: true
     font-size: 0.9em; /* Customize specific classes if needed */
   }
 
+  /* Make all links (including toggle-link) the same color and remove underline */
+  a,
+  .toggle-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  /* Keep extra toggle-link properties here */
+  .toggle-link {
+    cursor: pointer;
+    font-size: 0.9em;
+  }
+
   .abstract {
     display: none; /* Hide the abstract by default */
     text-align: justify; /* Justify text for better readability */
@@ -35,13 +48,6 @@ author_profile: true
     padding-left: 10px; /* Reduce padding for subcontent */
   }
 
-  .toggle-link {
-    color: #007bff;
-    text-decoration: underline;
-    cursor: pointer;
-    font-size: 0.9em;
-  }
-
   /* Divider between each paper */
   .underline {
     display: block;
@@ -49,6 +55,7 @@ author_profile: true
     border-bottom: 1px solid #ddd;
   }
 </style>
+
 
 <script>
   function toggleAbstract(id) {
