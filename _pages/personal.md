@@ -18,13 +18,12 @@ author_profile: true
     font-size: 0.9em; /* Customize specific classes if needed */
   }
 
-  /* Remove underline and set color for all links */
-  a,
-  a:link,
-  a:visited,
-  a:hover,
-  a:active,
-  .toggle-link {
+  /* Only remove underline and set color for links within .main-content */
+  .main-content a,
+  .main-content a:link,
+  .main-content a:visited,
+  .main-content a:hover,
+  .main-content a:active {
     color: #007bff !important;
     text-decoration: none !important;
   }
@@ -65,7 +64,9 @@ author_profile: true
   }
 </script>
 
-In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://www.liverpoolfc.com) since childhood. During my studies at LSE in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
+<div class="main-content">
+
+In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://www.liverpoolfc.com) since my childhood. During my studies at the London School of Economics in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
 
 <p align="center">
   <img 
@@ -77,3 +78,5 @@ In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have
 </p>
 
 I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the [Pokémon](https://en.wikipedia.org/wiki/Pokémon) series since 2005. My Game of the Year for 2024 is shared by [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) and [Shin Megami Tensei V: Vengeance](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V).
+
+</div>
