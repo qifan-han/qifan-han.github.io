@@ -64,7 +64,7 @@ author_profile: true
   }
 </script>
 
-<div class="main-content">
+<div class="main-content" markdown="1">
 
 In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://www.liverpoolfc.com) since my childhood. During my studies at the London School of Economics in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
 
