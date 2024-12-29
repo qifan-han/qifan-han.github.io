@@ -18,6 +18,13 @@ author_profile: true
     font-size: 0.9em; /* Customize specific classes if needed */
   }
 
+  /* Apply the same link style as before */
+  a,
+  .toggle-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+
   .abstract {
     display: none; /* Hide the abstract by default */
     text-align: justify; /* Justify text for better readability */
@@ -36,8 +43,6 @@ author_profile: true
   }
 
   .toggle-link {
-    color: #007bff;
-    text-decoration: underline;
     cursor: pointer;
     font-size: 0.9em;
   }
