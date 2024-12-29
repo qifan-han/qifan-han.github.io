@@ -18,11 +18,15 @@ author_profile: true
     font-size: 0.9em; /* Customize specific classes if needed */
   }
 
-  /* Apply the same link style as before */
+  /* Remove underline and set color for all links */
   a,
+  a:link,
+  a:visited,
+  a:hover,
+  a:active,
   .toggle-link {
-    color: #007bff;
-    text-decoration: none;
+    color: #007bff !important;
+    text-decoration: none !important;
   }
 
   .abstract {
@@ -40,11 +44,6 @@ author_profile: true
     list-style-type: circle; /* Set bullet points to circles for subcontent */
     margin-left: 10px; /* Indent subcontents */
     padding-left: 10px; /* Reduce padding for subcontent */
-  }
-
-  .toggle-link {
-    cursor: pointer;
-    font-size: 0.9em;
   }
 
   /* Divider between each paper */
@@ -66,7 +65,7 @@ author_profile: true
   }
 </script>
 
-In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://www.liverpoolfc.com) since my childhood. During my studies at the London School of Economics in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
+In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have been a fan of [Liverpool FC](https://www.liverpoolfc.com) since childhood. During my studies at LSE in 2019, I decided to watch a Liverpool match and ended up choosing the semi-final second leg between Liverpool FC and Barcelona FC. It turned out to be the best live sports experience of my life, as Liverpool achieved a miraculous 4–0 comeback and went on to win the Champions League that year.
 
 <p align="center">
   <img 
