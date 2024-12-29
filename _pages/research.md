@@ -66,7 +66,7 @@ author_profile: true
 <ul>
   <!-- Paper 1 -->
   <li>
-    <a href="https://qifan-han.github.io/files/JMP_QifanHan.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> (with Jasmine Yang and Andrey Simonov)
+    <a href="https://qifan-han.github.io/files/JMP_QifanHan.pdf">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> (with [Jasmine Yang](https://www.jasmineyang.marketing) and [Andrey Simonov](https://www.andreysimonov.com))
     <ul class="subcontent">
       <li> <em>Job Market Paper</em> </li>
       <li><span class="toggle-link" onclick="toggleAbstract('abstract-1')">Abstract</span></li>
@@ -80,7 +80,7 @@ author_profile: true
 
   <!-- Paper 2 -->
   <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a> (with Jasmine Yang and Kinshuk Jerath)
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4538856">Collaboration Among Content Creators</a> (with [Jasmine Yang](https://www.jasmineyang.marketing) and [Kinshuk Jerath](https://www.columbia.edu/~kj2323/))
     <ul class="subcontent">
 <!--      <li> <em>with Jasmine Yang and Kinshuk Jerath</em> </li>-->
       <li><span class="toggle-link" onclick="toggleAbstract('abstract-2')">Abstract</span></li>
