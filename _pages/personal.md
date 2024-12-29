@@ -66,6 +66,6 @@ In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have
 <img src="/images/personal_photo.JPG" 
      alt="Liverpool Live" 
      title="My experience at Anfield" 
-     width="300" />
+     width="150" />
 
 I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the [Pokémon](https://en.wikipedia.org/wiki/Pokémon) series since 2005. My Game of the Year for 2024 is shared by [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) and [Shin Megami Tensei V: Vengeance](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V).
