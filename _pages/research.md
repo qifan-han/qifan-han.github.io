@@ -128,7 +128,7 @@ author_profile: true
 <ul>
   <!-- WIP 1 -->
   <li>
-    Partial Identification Under Multiple Nest Structures
+    Discrete Choice Models with Incomplete Nest Structure
   </li>
   <ul class="subcontent">
     <li>
