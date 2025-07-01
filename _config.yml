@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "QIFAN HAN"
+title                    : "Qifan Han"
 title_separator          : "-"
 name                     : &name "Qifan Han"
-description              : &description "Qifan Han | Ph.D. in Economics at Boston University"
+description              : &description "Qifan Han | Assistant Professor at CUHK Shenzhen"
 url                      : https://qifan-han.github.io # the base hostname & protocol for your site e.g. "https://qifan-han.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qifan-han/qifan-han.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "photo_temp.jpg"
   name             : "Qifan Han"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Economics"
-  location         : "Boston, US"
-  employer         : "Boston University"
-  uri              : # URL
-  email            : "qfhan94@bu.edu"
+  bio              : ""
+  location         : "Shenzhen, CN"
+  employer         : "CUHK Shenzhen"
+  url              : # URL
+  email            : "hanqifan@cuhk.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
