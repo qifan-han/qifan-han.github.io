@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Marketing at the Chinese University of Hong Kong, Shenzhen. I receive my Ph.D. degree in Economics at Boston University.
+I am an Assistant Professor in Marketing at the Chinese University of Hong Kong, Shenzhen. I received my Ph.D. degree in Economics at Boston University.
 
 My research work is in the areas of quantitative marketing, applied econometrics and applied microeconomics, with a focus on digital markets, such as video games and livestreams. I use machine learning and deep learning techniques in video, text analysis and computer vision to explore the effectiveness and consequences of platform self-regulatory policies, focusing on the trade-offs between balancing platform’s economic interests, content production and consumer protection. Additionally, I develop econometric tools to address identification and estimation challenges, including innovative sensitivity analysis to address potential misclassified treatment assignments in causal inference, and partial identification methods to relax homogeneity assumptions in structural models.
 
