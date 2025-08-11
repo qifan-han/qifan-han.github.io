@@ -127,7 +127,7 @@ author_profile: true
 <ul>
   <!-- WIP 1 -->
   <li>
-    Discrete Choice Models with Incomplete Nest Structure
+    Discrete Choice Models with Incomplete Nest Structures
   </li>
   <ul class="subcontent">
     <li>
