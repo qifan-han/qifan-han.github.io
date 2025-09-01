@@ -61,6 +61,14 @@ author_profile: true
   }
 </script>
 
+## CUHK-Shenzhen
+
+<ul>
+  <li> MKT4080 Digital and Social Media Marketing Strategy(Fall 2025) </li>
+  <li> MKT5012 Marketing Research in the Digital Age (Fall 2025) </li>
+
+</ul>
+
 ## Boston University
 
 <ul>
