@@ -79,7 +79,7 @@ author_profile: true
   <!-- Paper 1 -->
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5298054">The Impact of Banning Online Gambling Livestreams: Evidence from Twitch.tv</a> 
-    (with <a href="https://www.jasmineyang.marketing">Jasmine Yang</a> and <a href="https://www.andreysimonov.com">Andrey Simonov</a>)
+    (with <a href="https://www.jasmineyang.marketing">Jasmine Yang</a> and <a href="https://www.andreysimonov.com">Andrey Simonov</a>). Major Revision at <strong>Marketing Science</strong>
     <ul class="subcontent">
       <li>
         <span class="toggle-link" onclick="toggleAbstract('abstract-1')">Abstract</span>
