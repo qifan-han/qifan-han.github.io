@@ -77,6 +77,27 @@ In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have
 />
 </p>
 
-I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the [Pokémon](https://en.wikipedia.org/wiki/Pokémon) series since 2005. My Game of the Year for 2024 is shared by [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) and [Shin Megami Tensei V: Vengeance](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V).
+<!--I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the [Pokémon](https://en.wikipedia.org/wiki/Pokémon) series since 2005. -->
+
+<p>
+  I also enjoy playing video games and often look for new research ideas in this market. My favorite genre is Japanese role-playing games, and I have been a fan of the <a href="https://en.wikipedia.org/wiki/Pokémon">Pokémon</a> series since 2005.
+</p>
+
+<p>
+  <a href="javascript:void(0);" onclick="toggleAbstract('goty_list')">
+    Here is my Game of the Year list in recent years (click to show/hide)
+  </a>
+</p>
+
+<div id="goty_list" class="abstract">
+  <ul class="subcontent">
+    <li><strong>2024:</strong> <a href="https://en.wikipedia.org/wiki/Black_Myth:_Wukong">Black Myth: Wukong</a>; <a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V">Shin Megami Tensei V: Vengeance</a></li>
+    <li><strong>2025:</strong> <a href="https://en.wikipedia.org/wiki/Donkey_Kong_Bananza">Donkey Kong Bananza</a></li>
+  </ul>
+</div>
+
+
+
+<!--My Game of the Year for 2024 is shared by [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong) and [Shin Megami Tensei V: Vengeance](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V).-->
 
 </div>
