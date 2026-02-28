@@ -84,9 +84,11 @@ In my spare time, I enjoy watching soccer, tennis, and Formula 1 matches. I have
 </p>
 
 <p>
+  Here is my 
   <a href="javascript:void(0);" onclick="toggleAbstract('goty_list')">
-    Here is my Game of the Year list in recent years (click to show/hide)
-  </a>
+    Game of the Year list
+  </a> 
+  in recent years.
 </p>
 
 <div id="goty_list" class="abstract">
